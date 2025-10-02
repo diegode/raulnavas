@@ -20,11 +20,16 @@
 
 title: Raúl Francisco Navas
 email: correo@raulnavas.com.ar
+author: Raúl Francisco Navas
 description: >- # this means to ignore newlines until "baseurl:"
   Abogado, Polígrafo y Docente Universitario. Especializado en Derecho Urbanístico, 
   Derecho Administrativo, Derecho Civil, Derecho Notarial, Catastro y Registros de la Propiedad.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://raulnavas.com.ar" # the base hostname & protocol for your site, e.g. http://example.com
+# Minima footer settings
+minima:
+  social_links:
+    email: correo@raulnavas.com.ar
 twitter_username: 
 github_username:
 

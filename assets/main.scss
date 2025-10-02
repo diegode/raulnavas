@@ -1,0 +1,165 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+/* Dark/Night mode theme */
+body {
+  background-color: #1a1a1a !important;
+  color: #e0e0e0 !important;
+  background-image: url('/assets/images/nighthawks.jpg') !important;
+  background-attachment: fixed !important;
+  background-position: center center !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  position: relative;
+}
+
+/* Add a semi-transparent overlay to make text more readable */
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.7);
+  z-index: -1;
+  pointer-events: none;
+}
+
+/* Main content wrapper */
+.page-content {
+  background-color: rgba(26, 26, 26, 0.85);
+  padding: 20px;
+  border-radius: 8px;
+  position: relative;
+  z-index: 1;
+}
+
+/* Header styling */
+.site-header {
+  background-color: rgba(0, 0, 0, 0.9) !important;
+  border-bottom: 1px solid #333 !important;
+}
+
+.site-title,
+.site-title:visited {
+  color: #ffffff !important;
+}
+
+.site-nav .page-link {
+  color: #e0e0e0 !important;
+}
+
+.site-nav .page-link:hover {
+  color: #ffffff !important;
+}
+
+/* Footer styling */
+.site-footer {
+  background-color: rgba(0, 0, 0, 0.9) !important;
+  border-top: 1px solid #333 !important;
+  color: #a0a0a0 !important;
+}
+
+.footer-heading {
+  color: #e0e0e0 !important;
+}
+
+.footer-col-wrapper {
+  color: #a0a0a0 !important;
+}
+
+/* Link colors */
+a {
+  color: #7eb8e5 !important;
+}
+
+a:visited {
+  color: #9b8ec1 !important;
+}
+
+a:hover {
+  color: #a5d8ff !important;
+  text-decoration: underline;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  color: #ffffff !important;
+}
+
+/* Post/page content */
+.post-content,
+.page-content .wrapper {
+  color: #e0e0e0 !important;
+}
+
+.post-content h1,
+.post-content h2,
+.post-content h3,
+.post-content h4 {
+  color: #ffffff !important;
+}
+
+/* Blockquotes */
+blockquote {
+  color: #d0d0d0 !important;
+  border-left: 4px solid #666 !important;
+  background-color: rgba(40, 40, 40, 0.6);
+  padding: 10px 15px;
+}
+
+/* Code blocks */
+pre,
+code {
+  background-color: rgba(40, 40, 40, 0.8) !important;
+  border: 1px solid #444 !important;
+  color: #e0e0e0 !important;
+}
+
+/* Lists in specialties section */
+ul li {
+  color: #e0e0e0 !important;
+}
+
+/* Strong/bold text */
+strong, b {
+  color: #ffffff !important;
+}
+
+/* Horizontal rules */
+hr {
+  border-color: #444 !important;
+}
+
+/* Navigation menu for mobile */
+.site-nav .trigger {
+  background-color: rgba(0, 0, 0, 0.95) !important;
+}
+
+/* Improve readability of main content */
+.wrapper {
+  background-color: rgba(26, 26, 26, 0.9);
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
+}
+
+/* Contact list */
+.contact-list,
+.social-media-list {
+  color: #e0e0e0 !important;
+}
+
+.contact-list a,
+.social-media-list a {
+  color: #7eb8e5 !important;
+}
+
+/* Ensure paragraphs are light colored */
+p {
+  color: #e0e0e0 !important;
+}

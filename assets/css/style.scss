@@ -1,0 +1,133 @@
+---
+---
+
+@import "minima";
+
+/* Dark/Night mode theme */
+body {
+  background-color: #1a1a1a;
+  color: #e0e0e0;
+  background-image: url('/assets/images/nighthawks.jpg');
+  background-attachment: fixed;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+/* Add a semi-transparent overlay to make text more readable */
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.7);
+  z-index: -1;
+}
+
+/* Main content wrapper */
+.page-content {
+  background-color: rgba(26, 26, 26, 0.85);
+  padding: 20px;
+  border-radius: 8px;
+}
+
+/* Header styling */
+.site-header {
+  background-color: rgba(0, 0, 0, 0.9);
+  border-bottom: 1px solid #333;
+}
+
+.site-title,
+.site-title:visited {
+  color: #ffffff !important;
+}
+
+.site-nav .page-link {
+  color: #e0e0e0;
+}
+
+.site-nav .page-link:hover {
+  color: #ffffff;
+}
+
+/* Footer styling */
+.site-footer {
+  background-color: rgba(0, 0, 0, 0.9);
+  border-top: 1px solid #333;
+  color: #a0a0a0;
+}
+
+.footer-heading {
+  color: #e0e0e0;
+}
+
+/* Link colors */
+a {
+  color: #7eb8e5;
+}
+
+a:visited {
+  color: #9b8ec1;
+}
+
+a:hover {
+  color: #a5d8ff;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  color: #ffffff;
+}
+
+/* Post/page content */
+.post-content,
+.page-content .wrapper {
+  color: #e0e0e0;
+}
+
+/* Blockquotes */
+blockquote {
+  color: #d0d0d0;
+  border-left: 4px solid #666;
+  background-color: rgba(40, 40, 40, 0.6);
+  padding: 10px 15px;
+}
+
+/* Code blocks */
+pre,
+code {
+  background-color: rgba(40, 40, 40, 0.8);
+  border: 1px solid #444;
+  color: #e0e0e0;
+}
+
+/* Lists in specialties section */
+ul li {
+  color: #e0e0e0;
+}
+
+/* Strong/bold text */
+strong, b {
+  color: #ffffff;
+}
+
+/* Horizontal rules */
+hr {
+  border-color: #444;
+}
+
+/* Navigation menu for mobile */
+.site-nav .trigger {
+  background-color: rgba(0, 0, 0, 0.95);
+}
+
+/* Improve readability of main content */
+.wrapper {
+  background-color: rgba(26, 26, 26, 0.9);
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
+}

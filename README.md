@@ -36,10 +36,24 @@ Los archivos generados estarán en el directorio `_site/`.
 ## Estructura del sitio
 
 - `index.markdown` - Página principal
-- `about.markdown` - Página "Acerca de"
+- `about.markdown` - Página "Acerca de" (Perfil)
 - `publicaciones.markdown` - Publicaciones académicas
 - `docencia.markdown` - Actividad docente
 - `contacto.markdown` - Información de contacto
+- `assets/css/style.scss` - Estilos personalizados (tema oscuro)
+- `assets/images/` - Imágenes del sitio (incluye fondo Nighthawks)
+
+## Tema y Diseño
+
+El sitio usa un tema oscuro/nocturno con la pintura "Nighthawks" de Edward Hopper como fondo, replicando el diseño del sitio original.
+
+### Configurar la imagen de fondo:
+
+1. Descargue una imagen de alta calidad de "Nighthawks" de Edward Hopper
+2. Guárdela como `assets/images/nighthawks.jpg`
+3. La imagen debería ser de al menos 1920px de ancho para buena calidad
+
+Ver `assets/images/README.md` para instrucciones detalladas sobre cómo obtener la imagen.
 
 ## Despliegue
 
