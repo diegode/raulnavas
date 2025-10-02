@@ -3,20 +3,31 @@ layout: page
 title: Inicio
 ---
 
-# Bienvenido al sitio web de Raúl Navas
+# RAÚL FRANCISCO NAVAS
 
-[Por favor, agregue aquí el contenido de la página principal desde www.raulnavas.com.ar]
+Abogado, Polígrafo y Docente Universitario
 
-Esta página debe contener:
-- Presentación personal
-- Breve descripción de actividades
-- Enlaces a las secciones principales del sitio
+## HOME
+
+> Honra la necesidad y honra la suficiencia.
+
+> Donde hay una necesidad, nace un derecho.
+
+## ESPECIALIDADES
+
+- **Derecho Urbanístico e Inmobiliario**
+- **Derecho Administrativo**
+- **Derecho Civil**
+- **Derecho Notarial**
+- **Catastro y Registros de la Propiedad**
+
+---
 
 ## Navegación
 
 Explore las diferentes secciones del sitio:
 
-- [Acerca de](/about/) - Información profesional y académica
+- [Perfil](/about/) - Información profesional y académica
 - [Publicaciones](/publicaciones/) - Trabajos y publicaciones académicas
 - [Docencia](/docencia/) - Actividad docente
 - [Contacto](/contacto/) - Información de contacto

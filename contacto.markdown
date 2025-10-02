@@ -4,21 +4,12 @@ title: Contacto
 permalink: /contacto/
 ---
 
-[Por favor, agregue aquí la información de contacto desde www.raulnavas.com.ar]
-
-Esta sección debe contener:
-- Dirección de correo electrónico
-- Afiliación institucional
-- Dirección postal
-- Otros datos de contacto relevantes
+# CONTACTO
 
 ## Información de contacto
 
-**Email:** [correo electrónico]
+**Email:** [correo@raulnavas.com.ar](mailto:correo@raulnavas.com.ar)
 
-**Institución:** [nombre de la institución]
+---
 
-**Dirección:** 
-[dirección completa]
-
-**Teléfono:** [si aplica]
+Para consultas profesionales, académicas o solicitudes de información, no dude en contactarse por correo electrónico.
