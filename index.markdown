@@ -1,17 +1,17 @@
 ---
 layout: page
-title: Inicio
+title: ""
 ---
 
-# RAÚL FRANCISCO NAVAS
-
-Abogado, Polígrafo y Docente Universitario
-
-## HOME
-
-> Honra la necesidad y honra la suficiencia.
-
-> Donde hay una necesidad, nace un derecho.
+<div style="text-align: center; margin: 40px 0;">
+  <blockquote style="font-size: 1.3em; font-style: italic; border-left: none; text-align: center; padding: 20px; background: none;">
+    <p>Honra la necesidad y honra la suficiencia.</p>
+  </blockquote>
+  
+  <blockquote style="font-size: 1.3em; font-style: italic; border-left: none; text-align: center; padding: 20px; background: none;">
+    <p>Donde hay una necesidad, nace un derecho.</p>
+  </blockquote>
+</div>
 
 ## ESPECIALIDADES
 

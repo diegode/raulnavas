@@ -8,7 +8,7 @@
 body {
   background-color: #1a1a1a !important;
   color: #e0e0e0 !important;
-  background-image: url('/assets/images/nighthawks.jpg') !important;
+  background-image: url('{{ "/assets/images/nighthawks.jpg" | relative_url }}') !important;
   background-attachment: fixed !important;
   background-position: center center !important;
   background-repeat: no-repeat !important;
@@ -162,4 +162,17 @@ hr {
 /* Ensure paragraphs are light colored */
 p {
   color: #e0e0e0 !important;
+}
+
+/* Custom styled blockquotes for home page */
+blockquote p {
+  color: #f0f0f0 !important;
+  font-weight: 300;
+  letter-spacing: 0.5px;
+  margin: 0 !important;
+}
+
+/* Page title adjustments */
+.page-heading {
+  display: none;
 }
