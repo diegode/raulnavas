@@ -36,17 +36,25 @@ body::before {
   border-radius: 8px;
   position: relative;
   z-index: 1;
+  margin-top: 0;
 }
 
 /* Header styling */
 .site-header {
   background-color: rgba(0, 0, 0, 0.9) !important;
   border-bottom: 1px solid #333 !important;
+  position: relative;
+  z-index: 100;
 }
 
 .site-title,
 .site-title:visited {
   color: #ffffff !important;
+}
+
+.site-nav {
+  position: relative;
+  z-index: 100;
 }
 
 .site-nav .page-link {
@@ -138,6 +146,14 @@ hr {
 /* Navigation menu for mobile */
 .site-nav .trigger {
   background-color: rgba(0, 0, 0, 0.95) !important;
+  position: relative;
+  z-index: 100;
+  border: 1px solid #333;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.8);
+}
+
+.site-nav label[for="nav-trigger"] {
+  z-index: 101;
 }
 
 /* Improve readability of main content */
