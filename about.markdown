@@ -4,8 +4,6 @@ title: Perfil
 permalink: /about/
 ---
 
-# PERFIL
-
 Abogado, Polígrafo y Docente Universitario.
 
 Nació en La Plata Provincia de Buenos Aires el 28 de Julio de 1957. Se recibió de Abogado en la Universidad de Buenos Aires en 1982 mientras trabajaba como Protocolista y Oficial Mayor en la Escribanía de su madre y como auxiliar en el Estudio Jurídico de su Padre, especializado en Derecho Urbanístico. Es discípulo del Dr. Guillermo L. Allende y de la Dra. Ana Raquel Nuta, en el campo del derecho privado, y de su padre el Dr. Raúl Francisco Navas, en el campo del derecho público.

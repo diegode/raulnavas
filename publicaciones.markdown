@@ -4,8 +4,6 @@ title: Publicaciones
 permalink: /publicaciones/
 ---
 
-[Por favor, agregue aquí la lista de publicaciones desde www.raulnavas.com.ar]
-
 Esta sección debe contener:
 - Libros
 - Artículos académicos

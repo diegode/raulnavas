@@ -4,8 +4,6 @@ title: Contacto
 permalink: /contacto/
 ---
 
-## Información de contacto
-
 **Email:** [correo@raulnavas.com.ar](mailto:correo@raulnavas.com.ar)
 
 ---

@@ -4,8 +4,6 @@ title: Docencia
 permalink: /docencia/
 ---
 
-[Por favor, agregue aquí la información sobre actividades docentes desde www.raulnavas.com.ar]
-
 Esta sección debe contener:
 - Cursos actuales
 - Cursos anteriores
