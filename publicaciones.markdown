@@ -8,17 +8,17 @@ permalink: /publicaciones/
 
 ### Derechos Reales
 
-**Navas, Raúl Francisco** (s.f.). *Derechos Reales de Propiedad Uso y Goce*. Oxford University Press.
+**Navas, Raúl Francisco** (1999). *Derechos Reales de Propiedad Uso y Goce*. Oxford University Press.
 
 **Navas, Raúl Francisco** (s.f.). *Garantías y Acciones Reales*. Oxford University Press.
 
 ### Derecho Hipotecario y Obligaciones
 
-**Nuta, Ana Raquel (Dir.), Navas, Raúl Francisco y otros autores** (s.f.). *Estudios de Derecho Hipotecario y Obligaciones Dinerarias*. Abeledo Perrot.
+**Nuta, Ana Raquel (Dir.), Navas, Raúl Francisco y otros autores** (1994). *Estudios de Derecho Hipotecario y Obligaciones Dinerarias*. Abeledo Perrot.
 
 ### Derecho Notarial
 
-**Nuta, Ana Raquel (Dir.), Navas, Raúl Francisco y otros autores** (s.f.). *Curso de Derecho Notarial*. Editorial Ad Hoc.
+**Nuta, Ana Raquel (Dir.), Navas, Raúl Francisco y otros autores** (1999). *Curso de Derecho Notarial*. Editorial Ad Hoc.
 
 ### Derecho Urbanístico
 
