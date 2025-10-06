@@ -40,10 +40,6 @@ plugins:
 
 # Exclude from processing.
 exclude:
-  - CONTENT_GUIDE.md
-  - DEPLOYMENT.md
-  - THEME_FIX.md
-  - download-nighthawks.sh
   - README.md
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
