@@ -14,18 +14,18 @@ Fue Subsecretario de Desarrollo Urbano, Director General de Planeamiento y Conse
 
 ## Trayectoria académica
 
-Fue Profesor Titular interino de la Cátedra de Legislación Urbanística del Curso Superior de Planificación Urbana y Regional de la Facultad de Arquitectura, Diseño y Urbanismo de la Universidad de Buenos Aires y Profesor Adjunto de la Cátedra de Derechos Reales a cargo de la Dra. Ana Raquel Nuta de la Facultad de Derecho de la Universidad de Buenos Aires, entre los años 1982 y 1999.
+Desarrolló una extensa carrera docente en la Universidad de Buenos Aires entre los años 1982 y 1999, desempeñándose como Profesor Titular interino de Legislación Urbanística en la Facultad de Arquitectura, Diseño y Urbanismo, y como Profesor Adjunto de Derechos Reales en la Facultad de Derecho.
 
-Es Profesor en los cursos de Post-grado de Diseño Urbano y de Temas de Derechos Reales de las Facultades de Arquitectura, Diseño y Urbanismo y de Derecho de la Universidad de Buenos Aires. Es también, docente de Regulaciones Urbanísticas del Post-Grado de Economía Urbana de la Universidad Torcuato Di Tella, y profesor itinerante de la Universidad Notarial Argentina.
+Actualmente es profesor en cursos de posgrado de la Universidad de Buenos Aires, la Universidad Torcuato Di Tella, y profesor itinerante de la Universidad Notarial Argentina.
 
-## Publicaciones
+*Para más información sobre su actividad docente, visite la sección [Docencia](/docencia/).*
 
-Ha escrito los libros **Derechos Reales de Propiedad Uso y Goce**, y **Garantías y Acciones Reales**, para Oxford University Press; **Estudios de Derecho Hipotecario y Obligaciones Dinerarias**, publicados por Abeledo Perrot, y **Curso de Derecho Notarial**, publicado por Editorial Ad. Hoc. Los tres últimos, con la dirección de la Dra. Ana Raquel Nuta y la colaboración de otros autores.
+## Obra académica y profesional
 
-## Participación en proyectos urbanísticos
+Ha desarrollado una extensa producción bibliográfica en las áreas de Derechos Reales, Derecho Hipotecario, Derecho Notarial y Derecho Urbanístico, publicada por editoriales de reconocido prestigio como Oxford University Press, Abeledo Perrot y Editorial Ad Hoc.
 
-Ha coordinado la Comisión de Ajuste y Actualización del Código de Planeamiento Urbano de la Ciudad de Buenos Aires, (1998) sancionado en el año 2.000, y la redacción final de su texto ordenado del año 2003, los aspectos normativos de los Planes Estratégicos de las ciudades de Lujan, Provincia de Buenos Aires, (2001) y Río IV, Provincia de Córdoba (2004/5) y el ordenamiento de las regulaciones urbanas de la Ciudad de Córdoba.
+Coordinó la actualización del Código de Planeamiento Urbano de la Ciudad de Buenos Aires (1998-2003) y participó en los aspectos normativos de diversos planes estratégicos municipales en las provincias de Buenos Aires y Córdoba.
 
-## Colaboraciones
+Es colaborador habitual de revistas especializadas en derecho, arquitectura e historia urbana.
 
-Es colaborador de las Revistas del Notariado, y Todo es Historia de la ciudad de Buenos Aires, y del Libro Los Cafés de Buenos Aires, de Horacio Spinetto. Ha publicado también artículos en las revistas Summa +, La Ley, Revista Notarial del Colegio de Escribanos de la Provincia de Buenos Aires, y en la Revista de la Sociedad Central de Arquitectos de la Capital Federal.
+*Para ver el listado completo de sus publicaciones, visite la sección [Publicaciones](/publicaciones/).*
